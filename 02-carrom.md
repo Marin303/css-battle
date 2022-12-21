@@ -1,4 +1,6 @@
 ![](https://cssbattle.dev/targets/2.png)
+
+```HTML
 <div id="a"></div>
 <div id="b"></div>
 <div id="c"></div>
@@ -32,3 +34,4 @@
     margin-left: 200px;
   }
 </style>
+```
