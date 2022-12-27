@@ -1,6 +1,6 @@
 ![](https://cssbattle.dev/targets/7.png)
 
-´´´HTML
+```HTML
 
 <div></div>
 <div></div>
